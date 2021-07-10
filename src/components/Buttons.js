@@ -1,5 +1,5 @@
 import React from 'react'
-import {StyleSheet, Text, TouchableOpacity} from 'react-native'
+import {StyleSheet, Text, TouchableHighlight} from 'react-native'
 
 
 export default props => {
@@ -7,9 +7,9 @@ export default props => {
   if (props.deleta) stylesButton.push(styles.buttonDeleta)
   if (props.zero) stylesButton.push(styles.buttonZero)
   return (
-      <TouchableOpacity onPress={() => props.onClick(props.text)}>
+      <TouchableHighlight onPress={() => props.onClick(props.text)}>
           <Text style={stylesButton}>{props.text}</Text>
-      </TouchableOpacity>
+      </TouchableHighlight>
   )
 }
 
