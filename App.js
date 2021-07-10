@@ -1,6 +1,6 @@
 import { StyleSheet, View, Text} from 'react-native';
-import Buttons from './src/Buttons';
-import Display from './src/Display';
+import Buttons from './src/components/Buttons';
+import Display from './src/components/Display';
 import React, {useState} from 'react';
 
 let estados={
