@@ -1,0 +1,2 @@
+# Calculadora
+Só notei hoje que minha irmã tá aparecendo como colabora sendo que não colaboramos, a única vez que ela upou um projeto para mim foi no contador como deixei nota explicando. Não sei se é por que eu fiz meu projeto no notebook dela por ter formatado o meu na época e deu isso por ter upado pelo computador dela mesmo ou o que foi... Nas configurações do repositório não consta isso. Mas agora que notei achei melhor explicar para evitar mal entendido... Enfim, fazer o que.
